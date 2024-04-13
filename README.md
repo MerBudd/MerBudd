@@ -14,7 +14,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/MerBudd/MerBudd/assets/82082386/835e3450-a8fc-453c-aa53-9e94d45230a3" width="230px"/> 
+<img align="left" src="https://github.com/MerBudd/MerBudd/assets/82082386/835e3450-a8fc-453c-aa53-9e94d45230a3" width="225px"/> 
 
 
 ```csharp
