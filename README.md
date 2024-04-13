@@ -50,10 +50,10 @@ Discord: @merbudd
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "left">
-  <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github"  width="435/></a>
+  <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" width="1000/></a>
 </p>
 <p align = "right">
-  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="435"></a>
+  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000"></a>
 </p>
 <p align = "center">
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MerBudd&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
