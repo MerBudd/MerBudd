@@ -18,10 +18,10 @@
 
 
 ```csharp
-My Profile
--------------------------------
+merbudd@github
+--------------
 Name: MerBudd, aka Budd
-WhoAmI: Srudent just doing some coding for fun 🏫🧑🏻‍💻
+Whoami: Student just doing some coding for fun 🏫🧑🏻‍💻
 Gender: Male
 Location: Secret 🤫
 Loves: Video Games 🎮, Technology 🚀, Coding 🖥️
@@ -37,10 +37,10 @@ Discord: @merbudd
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I do not remember the name of. The bot I'm currently working on is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. (https://github.com/MerBudd/Techiee.py) I know Python and JavaScript as they're the primary languages used for Discord bots.<br></p>
+<p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I do not remember the credentials of. The bot I'm currently working on (with @TechGamerExpert) is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. I know Python and JavaScript as they're the primary languages used for Discord bots. And since I know JavaScript, I can also write a little in TypeScript.<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,androidstudio,css,html&perline=3"alt="My knowledge"/>
+        <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,androidstudio,css,html&perline=3"alt="My programming languages and tools"/>
         <img src="https://github.com/MerBudd/MerBudd/assets/82082386/3880bfae-d2c3-4ff8-8b38-aaf5efc85219"alt="PFP 3" align="justify" width="160"/>
     </a>
 </p>
@@ -49,9 +49,13 @@ Discord: @merbudd
 
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
+<p align = "left">
+  <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github"  width="435/></a>
+</p>
+<p align = "right">
+  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="435"></a>
+</p>
 <p align = "center">
-  <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="212" width="467"/></a>
-  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="212" width="467"/></a>
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MerBudd&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
 </p>
 </div>
