@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate Snake Animation
 
 on:
   # run automatically every 6 hours
@@ -53,5 +53,5 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
-          delete_workflow_pattern: "Generate snake"
+          delete_workflow_pattern: "Generate Snake Animation"
           
