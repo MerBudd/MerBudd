@@ -26,7 +26,7 @@ Gender: Male
 Location: Secret 🤫
 Loves: Video Games 🎮, Technology 🚀, Coding 🖥️
 Hobbies: Gaming 🎮, Coding 🖥️, Swimming 🏊🏻
-Languages: Bash, Python, NodeJS, TypeScript
+Languages: Bash, Python, JavaScript, TypeScript
 Learning: Computer Science
 Discord: @merbudd
 ```
