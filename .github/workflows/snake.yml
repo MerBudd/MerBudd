@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Generate Snake Animation
         id: generate-snake-animation
-        uses: Platane/snk/svg-only@v3.1.0
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -39,7 +39,7 @@ jobs:
           test -f dist/github-contribution-grid-snake-dark.svg
 
       - name: Push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
@@ -47,7 +47,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Delete old workflow run
-        uses: Mattraks/delete-workflow-runs@v2
+        uses: Mattraks/delete-workflow-runs@v2.0.6
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
