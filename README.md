@@ -84,7 +84,7 @@ Discord: @merbudd
 <div>
 <h2 align="center">View Counter 👀</h2>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MerBudd&color=red&label=Budd's+Profile+Views" style="height:200%; width:200%;">
+<img src="https://komarev.com/ghpvc/?username=MerBudd&color=red&label=Budd's+Profile+Views" style="width: 100%; height: 20%;" />
      <h3 >Nice!</h3>
   </div>
 
