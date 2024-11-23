@@ -39,24 +39,19 @@ Discord: @merbudd
 <p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I do not remember the credentials of. The bot I'm currently working on (with @TechGamerExpert) is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. I know Python and JavaScript (I'm not a master, but still counts!), and since I know JavaScript, I can also write a little bit in TypeScript. I also sometimes write Android and Apple apps. Apart from coding, I like to mess around with some CC apps once in a while (I love Photoshop lol)<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,css,html,androidstudio,apple,ps&theme=dark"alt="My programming languages and tools"/>
+        <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,css,html,androidstudio,apple,ps&theme=dark"alt="My programming languages and tools" style="width: 100%;" />
     </a>
 </p>
 </div>
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<h2 align = "center"> GitHub Stats 📉🌟 and My Contributions Game 🐍🎮 </h2>
 <div> 
 <p align = "left">
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" width="1000/></a>
 </p>
-<p align = "right">
-  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000"></a>
-</p>
 </div>
 <br>
-
-<h2 align="center"> My Contributions Game 🐍🎮</h2>
 
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
