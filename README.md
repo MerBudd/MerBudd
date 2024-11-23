@@ -54,13 +54,10 @@ Discord: @merbudd
 <br>
 
 ![Snake animation](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 <br>
 
-
-</div>  
-<br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align="center">
