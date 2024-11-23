@@ -51,7 +51,8 @@ Discord: @merbudd
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" width="1000/></a>
 </p>
 </div>
-
+                                            
+<h2></h2>
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
 ‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
