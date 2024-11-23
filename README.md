@@ -52,7 +52,8 @@ Discord: @merbudd
 </p>
 </div>
                                             
-<h2></h2>
+<h2> </h2>
+
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
 ‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
