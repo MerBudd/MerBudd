@@ -52,9 +52,20 @@ Discord: @merbudd
 </p>
 </div>
 <br>
-
-![Snake animation](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 <br>
 
