@@ -45,12 +45,23 @@ Discord: @merbudd
 </div>
 <br>
 
-<h2 align = "center"> GitHub Stats 📉🌟 and My Contributions Game 🐍🎮 </h2>
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "left">
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" width="1000/></a>
 </p>
+<p align = "right">
+  <a href="https://github.com/MerBudd"><img alt="MerBudd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MerBudd&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="1000"></a>
+</p>
 </div>
+<br>
+
+<h2 align="center"> My Contributions Game 🐍🎮</h2>
+
+![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
+‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+<br>
 
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svggh-light-mode-only)
