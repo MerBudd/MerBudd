@@ -39,7 +39,7 @@ Discord: @merbudd
 <p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I lost. The bot I'm currently working on with Tech is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. I know Python and JavaScript (I'm not a master, but still counts!), and since I know JavaScript, I can also write a little bit in TypeScript. I also sometimes write Android and Apple apps. I'm poking at & experimenting with HTML and CSS but don't expect any websites from me. Apart from coding, I like to mess around with some creative apps once in a while (I love Photoshop lol, and I also do some video editing in Final Cut Pro).<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,css,html,androidstudio,apple,ps&theme=dark"alt="My programming languages and tools" style="width: 100%;" />
+        <img src="https://skillicons.dev/icons?i=github,git,py,js,ts,html,css,androidstudio,apple,ps,ai&theme=dark"alt="My programming languages and tools" style="width: 100%;" />
     </a>
 </p>
 </div>
@@ -78,7 +78,7 @@ Discord: @merbudd
 
 <br>
 <div>
-<h3 align="center">Oh btw, if you couldn't tell,
+<h3 align="center">Just fyi, if you couldn't tell,
 <br>
      I love this little fella 👇</h2>
 <div align="center">
