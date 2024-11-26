@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Budd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/db08a184-a775-4ee4-aa26-e34cc7b74570"><h1 align="center">✨ Hi there, I'm Budd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 <body>
 <br>
@@ -36,7 +36,7 @@ Discord: @merbudd
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I do not remember the credentials of. The bot I'm currently working on (with @TechGamerExpert) is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. I know Python and JavaScript (I'm not a master, but still counts!), and since I know JavaScript, I can also write a little bit in TypeScript. I also sometimes write Android and Apple apps. I'm poking at & experimenting with HTML and CSS but don't expect any websites from me. Apart from coding, I like to mess around with some creative apps once in a while (I love Photoshop lol, and I also do some video editing in Final Cut Pro).<br></p>
+<p align = "justify">I mainly make Discord bots. I have worked on many before, however, they were on a different account which I lost. The bot I'm currently working on (with [TechGamerExpert](https://github.com/TechGamerExpert)) is <img src="https://github.com/MerBudd/Techiee.js/assets/82082386/43cc9180-c22f-4418-8949-9834a5066089" width="23" height="23" align=top> Techiee, an AI chatbot with Google's Gemini models. I know Python and JavaScript (I'm not a master, but still counts!), and since I know JavaScript, I can also write a little bit in TypeScript. I also sometimes write Android and Apple apps. I'm poking at & experimenting with HTML and CSS but don't expect any websites from me. Apart from coding, I like to mess around with some creative apps once in a while (I love Photoshop lol, and I also do some video editing in Final Cut Pro).<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,git,bash,py,js,ts,css,html,androidstudio,apple,ps&theme=dark"alt="My programming languages and tools" style="width: 100%;" />
@@ -45,15 +45,15 @@ Discord: @merbudd
 </div>
 <br>                                     
 
-<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<h2 align = "center"> 📉🌟 My GitHub Stats & Contribution Snake Game 🐍🎮 </h2>
 <div> 
 <p align = "left">
   <a href="https://github.com/MerBudd"><img alt="MerBudd's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MerBudd&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" width="1000/></a>
 </p>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/MerBudd/MerBudd?tab=readme-ov-file#--github-stats--#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/MerBudd/MerBudd?tab=readme-ov-file#--github-stats--#gh-light-mode-only)
+[![Budd's GitHub Contributions Snake Game - Dark](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/MerBudd/MerBudd?tab=readme-ov-file#--github-stats--#gh-dark-mode-only)
+[![Budd's GitHub Contributions Snake Game - Light](https://raw.githubusercontent.com/MerBudd/MerBudd/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/MerBudd/MerBudd?tab=readme-ov-file#--github-stats--#gh-light-mode-only)
 
 
 ‍‍‍‍‍‍‍‍ ‍ ‍ ‍[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
